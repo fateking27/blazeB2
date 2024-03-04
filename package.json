@@ -1,3 +1,6 @@
+"engines": {
+    "node": "<=16"
+  },
 {
   "name": "vue-project-1",
   "version": "0.1.0",
